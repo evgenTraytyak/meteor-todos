@@ -11,3 +11,4 @@ coffeescript
 mquandalle:jade
 fourseven:scss
 mizzao:bootstrap-3
+iron:router
